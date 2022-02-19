@@ -30,6 +30,7 @@ NEO_MATRIX_COLUMNS & NEO_MATRIX_ZIGZAG describe the arrangement of the leds in t
 - Adafruit NeoPixel
 - Adafruit NeoMatrix
 - Adafruit GFX Library
+- PGMSPACE (for accessing flash storage)
 
 ```
             /~~~~~\        /~~~~~\
